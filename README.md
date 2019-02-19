@@ -9,7 +9,7 @@
 1. Unzip the downloaded file.
 1. Move `_navbar.md`, `_sidebar.md`, `.nojekyll`, `index.html`, and the `Web` folder to your local repository.
 1. Update `_sidebar.md` with course materials that you want searchable. See example [here](https://github.com/Make-School-Courses/BEW-2.5-Strongly-Typed-Ecosystems/blob/master/_sidebar.md).
-  * Need to link a lot of materials? You can use my `tocsify` [npm package](https://github.com/droxey/tocsify) to check your repo directory for `.md` files and generate a list of links for your sidebar: 
+   * Need to link a lot of materials? You can use my `tocsify` [npm package](https://github.com/droxey/tocsify) to check your repo directory for `.md` files and generate a list of links for your sidebar: 
     * Install `npm install -g tocsify`
     * Run in root of repo: `tocsify . --maxdepth=1 --file=_sidebar.md --headers=false`
 1. Open `index.html` in a text editor.
