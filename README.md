@@ -16,7 +16,7 @@
 1. Update lines `6` through 11 `index.html` with relevant descriptions for your course.
 1. Replace `REPO_NAME` on lines `40` and `63` with the repo name for your course (ex: `BEW-2.5-Strongly-Typed-Ecosystems`)
 1. Test your site locally by running `docsify serve .` in the root of the repo.
-1. Add, commit, and push your changes.
+1. Add, commit, and push your changes to `origin/master`.
 1. Navigate to the Settings tab of your course repository.
 1. Scroll down to the GitHub Pages settings, select `master` in the drop-down, and submit to enable the GitHub pages site for your repo.
-1. Click the resulting link to test.
+1. Click the resulting `https://Make-School-Courses.github.io` link to test your deployed GitHub Pages site.
