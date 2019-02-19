@@ -10,7 +10,7 @@ Includes the following features built in:
 * Websites available offline.
 * Ability to search and display any `.md` file in your repo linked in `_sidebar.md`.
 * Syntax highlighting for 23 different languages used at Make School.
-* Emojis in the following format `:100`.
+* Emojis in the following format `:100:`.
 * Added functionality: Copy to Clipboard function, flexible alerting.
 
 ## Prerequisites
