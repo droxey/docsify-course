@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-**1. Install `docsify-cli`: `npm install -g docsify-cli`.**
+1. **Install `docsify-cli`: `npm install -g docsify-cli`.**
 1. _(Optional)_ Install `npm install -g tocsify` to generate directory-based sidebars.
 
 ## Update Your Repo - Step by Step
