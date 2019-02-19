@@ -2,6 +2,17 @@
 
 🌟Everything required to add a Docsify site to Make School course repos.
 
+## Features
+
+Includes the following features built in:
+
+* Make School theme.
+* Websites available offline.
+* Ability to search and display any `.md` file in your repo linked in `_sidebar.md`.
+* Syntax highlighting for 23 different languages used at Make School.
+* Emojis in the following format `:100`.
+* Added functionality: Copy to Clipboard function, flexible alerting.
+
 ## Prerequisites
 
 1. **Install `docsify-cli`: `npm install -g docsify-cli`.**
