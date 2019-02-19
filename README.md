@@ -38,6 +38,9 @@ Includes the following features built in:
     1. Select `master` in the **Source drop-down**.
     1. **Submit to enable GitHub Pages** for your repo.
 1. Click the **resulting `https://Make-School-Courses.github.io` link** to test the deployment.
+1. Update [shortlinks](https://make.sc/shortlinks) to match the following format:
+    1. `make.sc/bew1.2` points to the course website: `https://Make-School-Courses.github.io/BEW-1.2-Authentication-and-Associations`
+    1. `make.sc/bew1.2-repo` points to the GitHub repo: `https://github.com/Make-School-Courses/BEW-1.2-Authentication-and-Associations`
 
 ## Additional Resources
 
