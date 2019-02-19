@@ -29,3 +29,7 @@
     1. Select `master` in the **Source drop-down**.
     1. **Submit to enable GitHub Pages** for your repo.
 1. Click the **resulting `https://Make-School-Courses.github.io` link** to test the deployment.
+
+## Additional Resources
+
+- [Docsify Documentation](https://docsify.js.org)
