@@ -20,14 +20,19 @@ Includes the following features built in:
 
 ## Update Your Repo - Step by Step
 
+### If you did not use the MS Syllabus Template as a repository template:
+
 1. **Download the latest release** in the Releases tab.
 1. **Unzip** the downloaded file.
 1. **Move `_navbar.md`, `_sidebar.md`, `.nojekyll`, `index.html`, and the `Web` folder to your local course repository**.
+
+### Instructions for All:
+
 1. **IMPORTANT**: **Update `_sidebar.md` with course materials that you want searchable.** 
    * See example [here](https://github.com/Make-School-Courses/BEW-2.5-Strongly-Typed-Ecosystems/blob/master/_sidebar.md).
 1. **Open `index.html`** in a text editor.
-    1. Scroll down and **replace `REPO_NAME`** on **lines `28`, `30`, `32`, and `48`** with the **repo name for your course** (ex: `BEW-2.5-Strongly-Typed-Ecosystems`)
-    1. Finally, **scroll up and update lines `7` through `11` in `index.html`** with **relevant descriptions** for your course.
+    1. Scroll down and **replace `REPO_NAME`** on **lines `24-27` and `43`** with the **repo name for your course** (ex: `BEW-2.5-Strongly-Typed-Ecosystems`)
+    1. Finally, **update lines `6` through `11` and `41`** with **relevant information** for your course.
 1. use `<!-- tabs:start -->` and `<!-- tabs:end -->` to tabulate sections of your syllabus.
     * See example [here](https://github.com/Make-School-Courses/BEW-2.4-Decentralized-Apps-Distributed-Protocols/blob/master/README.md)
 1. **Test locally** by running `docsify serve .` in the root of the repo.
